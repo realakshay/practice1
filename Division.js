@@ -4,6 +4,7 @@ function Division(x,y){
     try{
         return x/y
     }catch(e){
+        //Returning default error message
         return "Something getting wrong"
     }
 }
