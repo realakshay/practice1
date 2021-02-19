@@ -1,4 +1,4 @@
-//this is addition function will return addition of two numbers
+//Additon function
 function Addition(x,y){
     //return addition as result
     return x+y
